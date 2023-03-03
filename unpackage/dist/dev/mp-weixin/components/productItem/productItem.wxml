@@ -1,0 +1,1 @@
+<view class="plat padding-8 radius-10 w100 data-v-ad99f26c"><image class="image height-400 w100 data-v-ad99f26c" src="{{item.icon}}" mode></image><view class="data-v-ad99f26c">{{item.name}}</view><view class="text-cut-wrap data-v-ad99f26c">{{item.content}}</view></view>

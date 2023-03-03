@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "搜索页面",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "u-divider": "/uview-ui/components/u-divider/u-divider",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "product-item": "/components/productItem/productItem"
+  }
+}

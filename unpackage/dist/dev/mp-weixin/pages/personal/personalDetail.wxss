@@ -1,0 +1,13 @@
+
+.left-border{
+	width: 14rpx;
+	height: 50rpx;
+	line-height: 50rpx;
+	border-radius: 40rpx;
+	background: linear-gradient(180deg, rgba(51,138,255,1) 0%,rgba(147,237,224,1) 100%);
+	text-align: center;
+}
+.border{
+	border: 2rpx solid black;
+}
+

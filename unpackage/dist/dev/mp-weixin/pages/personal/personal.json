@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "个人",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "com-item": "/components/comItem/comItem",
+    "u-modal": "/uview-ui/components/u-modal/u-modal"
+  }
+}

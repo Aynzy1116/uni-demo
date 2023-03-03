@@ -1,0 +1,1 @@
+<view class="page"><view><u-navbar vue-id="bbaad3c0-1" placeholder="{{true}}" bind:__l="__l" vue-slots="{{['left','right','center']}}"><view slot="left"></view><view slot="right"></view><view slot="center">物联网</view></u-navbar></view><view><view>物联网页面</view><u-button vue-id="bbaad3c0-2" text="heihe" bind:__l="__l"></u-button></view></view>

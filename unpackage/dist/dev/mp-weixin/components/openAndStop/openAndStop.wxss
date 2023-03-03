@@ -1,0 +1,27 @@
+
+.content.data-v-a5ace2b8 {
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+	overflow: hidden;
+	position: relative;
+	/* line-height: 40rpx; */
+	/* max-height: 40px; */
+}
+.content.data-v-a5ace2b8:after {
+	content: "...";
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding-right: 5em;
+	padding-left: 8rpx;
+	background-color: #f8f8f8;
+}
+.more.data-v-a5ace2b8 {
+	position: absolute;
+	bottom: 0;
+	right: 30rpx;
+	z-index: 9;
+	cursor: pointer;
+}
+

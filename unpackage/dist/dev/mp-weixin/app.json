@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/tools/tools",
+    "pages/internet/internet",
+    "pages/personal/personal",
+    "pages/personal/personalDetail",
+    "pages/common/productLists/productLists",
+    "pages/common/productDetail/productDetail",
+    "pages/common/searchPage/searchPage",
+    "pages/common/myDevice/myDevice",
+    "pages/common/myCollects/myCollects"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/img/home.png",
+        "selectedIconPath": "static/img/home-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tools/tools",
+        "iconPath": "static/img/tools.png",
+        "selectedIconPath": "static/img/tools-active.png",
+        "text": "工具"
+      },
+      {
+        "pagePath": "pages/internet/internet",
+        "iconPath": "static/img/ito.png",
+        "selectedIconPath": "static/img/ito-active.png",
+        "text": "物联网"
+      },
+      {
+        "pagePath": "pages/personal/personal",
+        "iconPath": "static/img/personal.png",
+        "selectedIconPath": "static/img/personal-active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

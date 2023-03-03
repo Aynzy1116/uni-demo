@@ -1,0 +1,1 @@
+<view class="page"><view><u-navbar vue-id="7469297c-1" autoBack="true" placeholder="{{true}}" bind:__l="__l" vue-slots="{{['left','right','center']}}"><view slot="left"><image class="icon icon-32" src="/static/img/left-arrow.png" mode></image></view><view slot="right"></view><view slot="center">我的设备</view></u-navbar></view><view class="padding-20"><view>设备</view></view></view>

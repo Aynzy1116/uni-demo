@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "产品展示",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-sticky": "/uview-ui/components/u-sticky/u-sticky",
+    "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
+    "product-item": "/components/productItem/productItem"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="text-blue text-center padding radius-12 margin-top-20 data-v-67a82f24" style="background-color:white;"><view class="data-v-67a82f24"><image class="icon-80 data-v-67a82f24" src="{{item.icon}}"></image></view><view class="data-v-67a82f24">{{item.name}}</view></view>
